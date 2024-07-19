@@ -1,0 +1,8 @@
+applicationType: web
+defaultPackage: com.market
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+gormImpl: gorm-hibernate5
+servletImpl: spring-boot-starter-tomcat
+features: [app-name, asset-pipeline-grails, base, cache, github-workflow-java-ci, gorm-hibernate5, gradle, grails-application, grails-console, grails-dependencies, grails-gorm-testing-support, grails-gradle-plugin, grails-gsp, grails-url-mappings, grails-web, grails-web-testing-support, hibernate-validator, junit, logback, micronaut-inject-groovy, postgres, properties, readme, scaffolding, spring-boot-autoconfigure, spring-boot-devtools, spring-boot-starter, spring-boot-starter-tomcat, testcontainers]
